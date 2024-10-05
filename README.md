@@ -93,7 +93,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Deen Ramah" height="30" width="40" /></a>
   <a href="https://www.instagram.com/deen_ramah/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/01kiprotich/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Deen Ramah" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
